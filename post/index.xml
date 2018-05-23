@@ -10,39 +10,6 @@
     <atom:link href="http://cellx.vn/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Chữ Ký Điện Tử</title>
-      <link>http://cellx.vn/post/cks/</link>
-      <pubDate>Sat, 17 Mar 2018 14:57:34 +0700</pubDate>
-      
-      <guid>http://cellx.vn/post/cks/</guid>
-      <description>&lt;p&gt;Website đang được cập nhật!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>ECOM</title>
-      <link>http://cellx.vn/post/ecom/</link>
-      <pubDate>Sat, 17 Mar 2018 14:57:34 +0700</pubDate>
-      
-      <guid>http://cellx.vn/post/ecom/</guid>
-      <description>&lt;p&gt;Website đang được cập nhật!
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://cellx.vn/img/products/ecom.jpg&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;h4&gt;ECOM&lt;/h4&gt;
-        
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>G-Suite</title>
       <link>http://cellx.vn/post/gsuite/</link>
       <pubDate>Sat, 17 Mar 2018 14:57:34 +0700</pubDate>
@@ -294,6 +261,38 @@ Quản lý, duy trì, tìm kiếm và xuất email cũng như cuộc trò chuy�
     </item>
     
     <item>
+      <title>Giải pháp hỗ trợ kinh doanh</title>
+      <link>http://cellx.vn/post/ecom/</link>
+      <pubDate>Sat, 17 Mar 2018 14:57:34 +0700</pubDate>
+      
+      <guid>http://cellx.vn/post/ecom/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;&lt;h3&gt;CELLX cung cấp bộ giải pháp hỗ trợ kinh doanh cho doanh nghiệp &lt;/h3&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1. Hệ thống mail và kênh liên lạc trực tuyến với khách hàng&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. Web site quảng bá sản phẩm có tích hợp với quảng cáo Facebook&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3. Hệ thống lưu trữ thông tin khách hàng &amp;amp; lịch sử đơn hàng&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4. Báo cáo tình hình kinh doanh cập nhật trực tuyến&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;5. Tích hợp dữ liệu với hệ thống tài chính kế toán&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;6. Tích hợp dữ liệu với hệ thống quản trị nhân sự&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;7. Tích hợp dữ liệu với hệ thống Hóa đơn điện tử&lt;/strong&gt;
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://cellx.vn/img/products/ecom.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Hóa Đơn Điện Tử</title>
       <link>http://cellx.vn/post/hddt/</link>
       <pubDate>Sat, 17 Mar 2018 14:57:34 +0700</pubDate>
@@ -301,12 +300,10 @@ Quản lý, duy trì, tìm kiếm và xuất email cũng như cuộc trò chuy�
       <guid>http://cellx.vn/post/hddt/</guid>
       <description>
 
-&lt;p&gt;&lt;a href=&#34;http://vninvoice.vn/hoa-don-dien-tu/&#34; title=&#34;Permalink to Hóa đơn điện tử VN-Invoice - Giải pháp Hóa đơn điện tử VN&#34;&gt;Source&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;h3&gt;Hóa đơn điện tử VN-Invoice - Giải pháp Hóa đơn điện tử VN &lt;/h3&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;h3&gt;CELLX LÀ ĐẠI LÝ ỦY QUYỀN CỦA GIẢI PHÁP HÓA ĐƠN ĐIỆN TỬ VIỆT NAM (VNIS) &lt;/h3&gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#&#34;&gt;MENU&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;#&#34;&gt;Mục lục&lt;/a&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;#gioithieu&#34;&gt;Giới Thiệu&lt;/a&gt;
@@ -355,10 +352,6 @@ Quản lý, duy trì, tìm kiếm và xuất email cũng như cuộc trò chuy�
 &lt;li&gt;Dễ dàng quản lý hóa đơn, tránh được sai sót về báo cáo&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://vninvoice.vn/wp-content/uploads/2017/04/giai-phap-hoa-don-dien-tu-viet-nam.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://vninvoice.vn/wp-content/uploads/2017/04/gioi-thieu-05-1.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
 &lt;p&gt;&lt;strong&gt;&lt;a name=&#34;vuottroi&#34;&gt;PHẦN MỀM VN-INVOICE – T&lt;/strong&gt;&lt;strong&gt;ÍNH NĂNG VƯỢT TRỘI VÀ MỀM DẺO&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
@@ -379,10 +372,6 @@ Quản lý, duy trì, tìm kiếm và xuất email cũng như cuộc trò chuy�
 &lt;li&gt;Kinh nghiệm cung cấp phần mềm hóa đơn cho nhiều Doanh nghiệp, nhiều loại hình và có số lượng xuất hóa đơn lớn lên đến 10.000 hóa đơn 1 ngày.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://vninvoice.vn/wp-content/uploads/2017/04/versatility.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://vninvoice.vn/wp-content/uploads/2017/06/1447947676.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
 &lt;p&gt;&lt;strong&gt;&lt;a name=&#34;dinhnghia&#34;&gt;HÓA ĐƠN ĐIỆN TỬ LÀ GÌ ?&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
@@ -401,10 +390,6 @@ Quản lý, duy trì, tìm kiếm và xuất email cũng như cuộc trò chuy�
 &lt;/ul&gt;
 
 &lt;hr /&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://vninvoice.vn/wp-content/uploads/2017/04/hoa-don-dien-tu-vninvoice.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://vninvoice.vn/wp-content/uploads/2017/06/hhd.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;&lt;a name=&#34;dieukien&#34;&gt;ĐIỀU KIỆN SỬ DỤNG HÓA ĐƠN ĐIỆN TỬ&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
@@ -436,10 +421,61 @@ Quản lý, duy trì, tìm kiếm và xuất email cũng như cuộc trò chuy�
 
 &lt;ul&gt;
 &lt;li&gt;Doanh nghiệp nộp bản cứng đến Cơ quan thuế.&lt;/li&gt;
-&lt;li&gt;Nộp qua mạng trong trường hợp iHTKK tương thích.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;li&gt;Nộp qua mạng trong trường hợp iHTKK tương thích.
 
-&lt;p&gt;&lt;img src=&#34;http://vninvoice.vn/wp-content/uploads/2017/06/tphcm-su-dung-chu-ky-so.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
